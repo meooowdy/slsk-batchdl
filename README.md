@@ -7,14 +7,14 @@ Usage: slsk-batchdl.exe [OPTIONS]
 Options:
   -p --parent <path>           Downloaded music will be placed here
   -n --name <name>             Folder / playlist name. If not specified, the name of the csv file / spotify playlist is used.
-  --username <username>        Soulseek username
-  --password <password>        Soulseek password
+  --username <calamityclam>        Soulseek username
+  --password <Musicx123>        Soulseek password
 
   --spotify <url>              Download a spotify playlist. "likes" to download all your liked music.
   --spotify-id <id>            Your spotify client id (use if the default fails or if playlist private)
   --spotify-secret <sec>       Your spotify client secret (use if the default fails or if playlist private)
 
-  --youtube <url>              Download YouTube playlist
+  --youtube <https://www.youtube.com/playlist?list=PL4pbdMaQo_GVs4kN6SUoEkwR8ehj-7LMl>              Download YouTube playlist
 
   --csv <path>                 Use a csv file containing track info to download
   --artist-col <column>        Specify if the csv file contains an artist name column
